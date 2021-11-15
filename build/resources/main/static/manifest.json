@@ -1,0 +1,22 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "name": "pwa test",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "pwa test",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "캐릭7.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "캐릭7 (1).png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
